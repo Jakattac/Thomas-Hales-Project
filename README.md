@@ -1,39 +1,31 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Thomas Hales - Irish Politician Website
 
-Welcome,
+This website showcases the life and contributions of Thomas Hales, an influential Irish politician. The website consists of multiple pages with different sections dedicated to different aspects of his life. The site will be targeted towards people with an interest in history and learning ofthe Irish war for independence.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Pages
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+1. Introduction: Provides a brief overview of Thomas Hales and his role in Irish history.
 
-## Codeanywhere Reminders
+2. Irish Independence: Explores Thomas Hales' involvement in the Irish Volunteers and his contributions to the Irish War of Independence.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+3. Sean Hales: Focuses on the relationship between Thomas Hales and his brother Sean Hales, including their differing political stances during the Irish Civil War.
 
-`python3 -m http.server`
+4. Sign Up: Offers visitors the opportunity to sign up for a newsletter to stay updated on Thomas Hales and related events.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Existing Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- __Navigation Bar__
 
-`http_server`
+- All pages feature a navigation bar. It is fully responsive with links to the Introduction, Irish Independence, Sean Hales and sign up pages.
+- This section will allow the user to easily navigate accross all pages without the need to use the back button.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+![Navigation Bar](/workspaces/Thomas-Hales-Project/assets/images/header.png)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Deployment
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Technologies Used
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+- HTML5
+- CSS3
