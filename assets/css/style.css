@@ -1,0 +1,167 @@
+/* Reset default browser styles */
+body,
+h1,
+h2,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: green;
+    color: rgb(0, 0, 0);
+}
+
+header {
+    background-color: gold;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* image sizing and placement */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* sign up form styling */
+#signup {
+    text-align: center;
+}
+
+#signup h2 {
+    margin-bottom: 20px;
+}
+
+#signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#signup-form div {
+    margin-bottom: 20px;
+}
+
+#signup-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#signup-form input[type="text"],
+#signup-form input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#signup-form button[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#signup-form button[type="submit"]:hover {
+    background-color: #555;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    header {
+        text-align: center;
+    }
+
+    nav ul li {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    section {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    #signup-form {
+        max-width: 300px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 24px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    #signup-form {
+        max-width: 300px;
+    }
+}
