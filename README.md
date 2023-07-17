@@ -19,7 +19,7 @@ This website showcases the life and contributions of Thomas Hales, an influentia
 - All pages feature a navigation bar. It is fully responsive with links to the Introduction, Irish Independence, Sean Hales and sign up pages.
 - This section will allow the user to easily navigate accross all pages without the need to use the back button.
 
-![Navigation Bar](Thomas-Hales-Project/assets/images/header.png)
+![Navigation Bar](Thomas-Hales-Project/assets/images/amiresponsive.jpg)
 
 ## Deployment
 
