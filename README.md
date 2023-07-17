@@ -2,6 +2,8 @@
 
 This website showcases the life and contributions of Thomas Hales, an influential Irish politician. The website consists of multiple pages with different sections dedicated to different aspects of his life. The site will be targeted towards people with an interest in history and learning ofthe Irish war for independence.
 
+![Thomas Hales mockup](/../main/assets/images/amiresponsive.jpg)
+
 ## Pages
 
 1. Introduction: Provides a brief overview of Thomas Hales and his role in Irish history.
@@ -16,14 +18,19 @@ This website showcases the life and contributions of Thomas Hales, an influentia
 
 - __Navigation Bar__
 
-- All pages feature a navigation bar. It is fully responsive with links to the Introduction, Irish Independence, Sean Hales and sign up pages.
-- This section will allow the user to easily navigate accross all pages without the need to use the back button. 
+![Navigation Bar](/../main/assets/images/header.png)
 
-![Navigation Bar](header.png)
+- All pages feature a navigation bar. It is fully responsive with links to the Introduction, Irish Independence, Sean Hales and sign up pages.
+- This section will allow the user to easily navigate accross all pages without the need to use the back button.
+
+- __Introduction__
+
+- ![Introduction page](/../main/assets/images/introduction.png)
+
+- This section contains an image of Thomas hales and information on his early years.
+- This section will help users to get an idea of Thomas Hales life an dnot overload them with information.
 
 ## Deployment
-
-
 
 ## Technologies Used
 
