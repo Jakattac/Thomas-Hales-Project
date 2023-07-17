@@ -24,17 +24,20 @@ header {
 
 nav ul {
     list-style: none;
+    text-align: center;
 }
 
 nav ul li {
     display: inline;
     margin-right: 10px;
+    float: center;
 }
 
 nav ul li a {
     color: #333;
     text-decoration: none;
     text-transform: uppercase;
+    float: center;
 }
 
 nav ul li a:hover {
@@ -81,6 +84,7 @@ img {
 /* sign up form styling */
 #signup {
     text-align: center;
+    float: center;
 }
 
 #signup h2 {
@@ -133,6 +137,7 @@ img {
     nav ul li {
         display: block;
         margin-bottom: 5px;
+        text-align: center;
     }
 
     section {
