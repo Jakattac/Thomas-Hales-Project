@@ -50,9 +50,25 @@ This website showcases the life and contributions of Thomas Hales, an influentia
 
 - This section contains a form where people can sign up with email for the website newsletter.
   
+### Features left to implement
 
+- In the future I could also provide a page of links to other historical figures and events.
+
+## Testing
+
+- I have tested the site through several different browsers and screen sizes to gurrantee ease of use and good UX design.
+- I think that the style change of the nav bar to be stacked rather than inline when on a phone screen really helps the design and ease of use.
 
 ## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+
+- The live link can be found at - <https://jakattac.github.io/Thomas-Hales-Project/>
+
+## credits
 
 ## Technologies Used
 
